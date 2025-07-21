@@ -5,6 +5,11 @@
 
 <h3 align="center">A passionate Data Science & Machine Learning Developer from India 🇮🇳</h3>
 
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="600" alt="Developer Banner" />
+</p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ankit-mahadani&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-mahadani" /> </p>
 
 ---
@@ -46,7 +51,7 @@
 ### 🔥 GFG 3D Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitmahadani&theme=tokyonight-duo&border_radius=10.5&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-mahadani&theme=tokyonight-duo&border_radius=10.5&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
