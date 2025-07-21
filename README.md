@@ -91,10 +91,13 @@
 </p>
 ---
 
----
+
 <p align="center">
-   <img src-""/>
+  <img src="gfg_graph.png" alt="GeeksforGeeks 3D Practice Graph" style="max-width: 100%; height: auto;" />
 </p>
+---
+
+
 
 
 
