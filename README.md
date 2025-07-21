@@ -5,15 +5,15 @@
 
 <h3 align="center">A passionate Data Science & Machine Learning Developer from India 🇮🇳</h3>
 
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="600" alt="Developer Banner" />
-</p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ankit-mahadani&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-mahadani" /> </p>
 
 ---
 
+<!-- About Me Section with GIF -->
+<table>
+  <tr>
+    <td width="70%">
+      
 ### 🚀 About Me
 
 - 🔭 Currently working at **CrowdWisdomTrading** as an **n8n Intern**
@@ -21,6 +21,13 @@
 - 💬 Ask me about anything related to **Python, ML, n8n, or Game Dev**
 - 📫 Reach me at: **ankitmahadani181@gmail.com**
 - 🗂️ [My Resume](https://drive.google.com/file/d/1Sg_egrc8KcKJ1fg5foD7qK9Kf_k7ueYR/view?usp=sharing)
+
+    </td>
+    <td width="30%">
+      <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="100%" alt="Developer GIF"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -81,3 +88,19 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit-mahadani&theme=react-dark&bg_color=1F222E&hide_border=true" />
 </p>
+---
+
+---
+
+### 🔥 GFG 3D Contribution Graph (Simulated)
+
+<p align="center">
+  <a href="https://auth.geeksforgeeks.org/user/ankitmahadani" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitmahadani&theme=tokyonight-duo&border_radius=10.5&date_format=M%20j%5B%2C%20Y%5D&ring=1F8A70&fire=1F8A70&currStreakLabel=1F8A70" alt="GFG 3D Streak (Simulated)" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Note: Simulated 3D streak using GitHub-style card. Actual GFG activity may vary.</em>
+</p>
+
