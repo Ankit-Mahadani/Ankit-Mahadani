@@ -92,16 +92,12 @@
 ---
 
 ---
-
-### 🔥 GFG 3D Contribution Graph (Simulated)
-
 <p align="center">
-  <a href="https://auth.geeksforgeeks.org/user/ankitmahadani" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitmahadani&theme=tokyonight-duo&border_radius=10.5&date_format=M%20j%5B%2C%20Y%5D&ring=1F8A70&fire=1F8A70&currStreakLabel=1F8A70" alt="GFG 3D Streak (Simulated)" />
-  </a>
+   <img src-""/>
 </p>
 
-<p align="center">
-  <em>Note: Simulated 3D streak using GitHub-style card. Actual GFG activity may vary.</em>
-</p>
+
+
+
+
 
