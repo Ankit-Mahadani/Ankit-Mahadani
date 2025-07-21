@@ -28,7 +28,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
 # 📊 GFG 3D Stats Visualization:
-```python
+python
 # GFG Stats 3D Visualization (Example)
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
