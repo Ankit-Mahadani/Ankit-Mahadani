@@ -1,6 +1,7 @@
 <!-- Animated Name -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankit+Mahadani;Data+Science+%7C+ML+Developer+%7C+AI+Enthusiast;CSE+@+VIT+Bhopal;Always+Learning+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankit+Mahadani;Data+Science;ML+Developer;Enthusiast;CSE+@+VIT+Bhopal;Always+Learning+%F0%9F%92%AA" alt="Typing SVG" />
+
 </h1>
 
 <h3 align="center">A passionate Data Science & Machine Learning Developer from India 🇮🇳</h3>
